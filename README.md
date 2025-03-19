@@ -1,6 +1,6 @@
 # YouTube Video Gallery
 
-🔗 **Live Demo:** [Quote App](https://youtube-video-listing-two.vercel.app/) 
+🔗 **Live Demo:** [Youtube video listing App](https://youtube-video-listing-two.vercel.app/) 
 
 This project is a simple web-based YouTube video gallery that fetches videos from an API and displays them in a grid layout. It includes features like infinite scrolling, dark mode, and a search functionality.
 
