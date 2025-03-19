@@ -2,6 +2,10 @@
 
 This project is a simple web-based YouTube video gallery that fetches videos from an API and displays them in a grid layout. It includes features like infinite scrolling, dark mode, and a search functionality.
 
+![image](https://github.com/user-attachments/assets/1e6c5e03-42cf-45f0-b5a6-b099f82789de)
+
+![image](https://github.com/user-attachments/assets/3deff4ff-b632-433e-99a2-1a98ed23f0f7)
+
 ## Features
 - Fetches YouTube videos dynamically using an API
 - Infinite scrolling to load more videos automatically
